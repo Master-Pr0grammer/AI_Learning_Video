@@ -5,7 +5,7 @@ Creates a video showing the AI learning a visual image. The video "output.mp4" i
 
 https://github.com/Master-Pr0grammer/AI_Learning_Video/assets/147747206/c280984f-2586-4511-ab78-77f5a81c4c64
 
-**Reference image on right, final model ouput on left:**
+**Reference image on left, final model ouput on right:**
 
 ![face](https://github.com/Master-Pr0grammer/AI_Learning_Video/assets/147747206/a3e1b4c5-7b77-46c0-94aa-60b1e02c8d26)![final_output](https://github.com/Master-Pr0grammer/AI_Learning_Video/assets/147747206/3f4ceb7d-7897-4f9d-ac2d-1ce395eff1a4)
 
